@@ -1,7 +1,7 @@
 # Hola, soy Daniel Melo! 👋
 
-[![ver en Español](https://img.shields.io/badge/-Ver%20en%20Español-05122A?style=flat&logo=esph)](https://github.com/estfloyd/my_personal_repo/blob/main/README.es.md)
-[![see in English](https://img.shields.io/badge/-See%20in%20English-05122A?style=flat&logo=esph)](https://github.com/estfloyd/my_personal_repo/blob/main/README.md)
+[![ver en Italiano](https://img.shields.io/badge/-Ver%20en%20Italiano-05122A?style=flat&logo=esph)](https://github.com/estfloyd/my_personal_repo/blob/main/README.it.md)
+[![ver en Inglés](https://img.shields.io/badge/-Ver%20en%20Inglés-05122A?style=flat&logo=esph)](https://github.com/estfloyd/my_personal_repo/blob/main/README.md)
 
 ## Acerca de mí 🚀
 
