@@ -31,7 +31,7 @@ I am immersed in my learning journey, focused on building a solid foundation in 
 
 I would love to collaborate on interesting projects and connect with people passionate about logic and mathematics in computer science!
 
-## Some Statistics 🩻
+## Some Statistics 📈
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=estfloyd)
 
