@@ -30,6 +30,6 @@ Estoy inmerso en mi viaje de aprendizaje, enfocado en construir una base sólida
 
 ¡Me encantaría colaborar en proyectos interesantes, conectarme con personas apasionadas por la lógica y las matemáticas en la informática!
 
-## Algunas estadísticas 🩻
+## Algunas estadísticas 📈
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=estfloyd)
