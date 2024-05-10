@@ -14,13 +14,22 @@ I am a Computer Science student passionate about programming and algorithmic pro
 - Learning
 
 ## Technologies and Languages I Use 🛠️
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)
 ![Python Badge](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB)
 ![C++ Badge](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java Badge](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007396)
-![Bash Badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Bash Badge](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
+<!--![Java Badge](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007396)-->
+<!--![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)-->
+
+
+## Some Badges
+<div style="display: flex;">
+  <img src="/badges/python-essentials-1.1.png" alt="Python essentials 1" width="150" height="150"/>
+  <img src="/badges/python-essentials-2.png" alt="Python essentials 2" width="150" height="150"/>
+  <img src="/badges/introduction-to-cybersecurity.png" alt="Cybersecurity" width="150" height="150"/>
+</div>
 
 ## Currently Learning and Working On 💻
 
