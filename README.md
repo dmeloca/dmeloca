@@ -10,6 +10,7 @@ I am a Computer Science student passionate about programming and algorithmic pro
 - Computational Logic
 - Mathematics
 - Learning
+- Cybersecurity
 
 ## Techs 🤖
 
@@ -39,15 +40,17 @@ I am a Computer Science student passionate about programming and algorithmic pro
 
 I am immersed in my learning journey, focused on building a solid foundation in computer science, programming, and enhancing my professional profile.
 
-## Collaboration and Projects 🤝
-
-I would love to collaborate on interesting projects and connect with people passionate about logic and mathematics in computer science!
-
-## Some Statistics 📈
-
-
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estfloyd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estfloyd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=estfloyd&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estfloyd&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estfloyd&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
+
+
+## ✍️ Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</div>
+
 
