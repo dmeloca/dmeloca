@@ -42,7 +42,7 @@ I am immersed in my learning journey, focused on building a solid foundation in 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmeloca¿&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=dmeloca&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmeloca&theme=rose_pine&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmeloca&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
