@@ -2,30 +2,23 @@
 
 ## About Me 🚀
 
-I am a Computer Science student passionate about programming and algorithmic problem-solving. I consider myself a self-taught learner, always exploring and acquiring knowledge beyond my formal studies.
+I’m currently working toward my RTOD certification, actively participating in Capture The Flag (CTF) challenges, and pursuing a degree in Computer Science. I’m passionate about red team operations and continuously learning about cybersecurity and cyberintelligence.
+
+I’m particularly interested in collaborating on research projects related to cybersecurity. My current focus areas include malware development, computer networks, and binary exploitation. I’m always looking for ways to improve my red team skills and deepen my technical expertise.
 
 ## My Interests 🧠
 
-- AI
-- Computational Logic
-- Mathematics
-- Learning
-- Cybersecurity
+- Malware Development
+- Cyber Intelligence
+- Red Team Operations
+- Binary Exploitation
+- Cryptography
+
 
 ## Techs 🤖
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=arch,py,go,linux,bash,docker,cs" height="40" alt="arch logo"  />
 </div>
 
 ## Some Badges 🎖️
