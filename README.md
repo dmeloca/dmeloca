@@ -8,6 +8,7 @@ I’m particularly interested in collaborating on research projects related to c
 
 ## My Interests 🧠
 
+- Quantum Computing
 - Malware Development
 - Cyber Intelligence
 - Red Team Operations
