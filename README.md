@@ -2,15 +2,15 @@
 
 ## About Me 🚀
 
-I’m currently working toward my RTOD certification, actively participating in Capture The Flag (CTF) challenges, and pursuing a degree in Computer Science. I’m passionate about red team operations and continuously learning about cybersecurity and cyberintelligence.
+I’m currently working toward my RTOD certification, actively participating in Capture The Flag (CTF) challenges, and pursuing a degree in Computer Science. I’m passionate about red team operations, hardware hacking, and quantum computing, and I’m constantly expanding my knowledge in cybersecurity and computer science.
 
-I’m particularly interested in collaborating on research projects related to cybersecurity. My current focus areas include malware development, computer networks, and binary exploitation. I’m always looking for ways to improve my red team skills and deepen my technical expertise.
+I’m especially interested in collaborating on research projects related to cybersecurity or quantum computing.
 
 ## My Interests 🧠
 
+- Hardware Hacking
 - Quantum Computing
 - Malware Development
-- Cyber Intelligence
 - Red Team Operations
 - Binary Exploitation
 - Cryptography
@@ -19,7 +19,7 @@ I’m particularly interested in collaborating on research projects related to c
 ## Techs 🤖
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,py,go,linux,bash,docker,cs" height="40" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=py,go,linux,bash,docker,c,cpp,raspberrypi" height="40" alt="arch logo"  />
 </div>
 
 ## Some Badges 🎖️
@@ -32,7 +32,7 @@ I’m particularly interested in collaborating on research projects related to c
 
 ## Currently Learning and Working On 💻
 
-I am immersed in my learning journey, focused on building a solid foundation in computer science, programming, and enhancing my professional profile.
+I am deeply engaged in strengthening my foundation in computer science and programming, while actively developing skills in offensive security, quantum computing, and hardware hacking. My current focus is on hands-on experience through CTF challenges and building a strong professional profile in cybersecurity, red team operations, hardware and quantum computing.
 
 ## 📊 GitHub Stats:
 <div align="center">
