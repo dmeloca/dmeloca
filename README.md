@@ -1,48 +1,42 @@
-# Hi, I'm Daniel Melo! 👋
+# 💀 Daniel Melo — 0xRedOps
 
-## About Me 🚀
+> `whoami && id`
+```bash
+ch1p
+uid=1337(root) gid=1337(r4coon) groups=redteam,exploitdev
+```
 
-I’m currently working toward my RTOD certification, actively participating in Capture The Flag (CTF) challenges, and pursuing a degree in Computer Science. I’m passionate about red team operations, hardware hacking, and quantum computing, and I’m constantly expanding my knowledge in cybersecurity and computer science.
+# 🧠 About Me
+🎯 Red Teamer in training | 🧪 Quantum Computing Enthusiast | 🛠️ Hardware Hacker
 
-I’m especially interested in collaborating on research projects related to cybersecurity or quantum computing.
-
-## My Interests 🧠
-
-- Hardware Hacking
+- 🔐 Focused on advanced offensive security, binary exploitation, and malware dev.
+- 🧬 Exploring the intersection between quantum computing and infosec.
+- 🎓 Currently working toward the RTOD cert and a CS degree.
+# Interests
+- Red Team Ops
 - Quantum Computing
-- Malware Development
-- Red Team Operations
 - Binary Exploitation
+- Malware Development
+- Hardware Hacking
 - Cryptography
+# Tools & Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,go,c,cpp,bash,linux,docker,raspberrypi" height="40"/> </div>
+
+# Certifications and Badges
+<div align="center"> <img src="/badges/python-essentials-1.1.png" width="130"/> <img src="/badges/python-essentials-2.png" width="130"/> <img src="/badges/introduction-to-cybersecurity.png" width="130"/> </div>
+
+# Currently Hacking On
+- 🩸 Binary exploitation using pwndbg + gdb
+- 💡 Custom hardware implants and HID attacks
+- 💻 Reverse engineering malware with Ghidra + Cutter
+- 🔬 Building quantum algorithms w/ Qiskit
+- 🔓 Gaining root in obscure CTF machines
 
 
-## Techs 🤖
+# Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dmeloca&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> </div>
+<div align="center"> <img src="https://www.hackthebox.com/badge/image/2212546" height="40"/> </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,linux,bash,docker,c,cpp,raspberrypi" height="40" alt="arch logo"  />
-</div>
-
-## Some Badges 🎖️
-
-<div align="center"; style="display: flex;">
-  <img src="/badges/python-essentials-1.1.png" alt="Python essentials 1" width="150" height="150"/>
-  <img src="/badges/python-essentials-2.png" alt="Python essentials 2" width="150" height="150"/>
-  <img src="/badges/introduction-to-cybersecurity.png" alt="Cybersecurity" width="150" height="150"/>
-</div>
-
-## Currently Learning and Working On 💻
-
-I am deeply engaged in strengthening my foundation in computer science and programming, while actively developing skills in offensive security, quantum computing, and hardware hacking. My current focus is on hands-on experience through CTF challenges and building a strong professional profile in cybersecurity, red team operations, hardware and quantum computing.
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmeloca&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false"/>  
-</div>
-
-
-## ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</div>
-
-
+# Quotes
+> “The quieter you become, the more you are able to hear.”
+— Ram Dass (used by many hackers)
