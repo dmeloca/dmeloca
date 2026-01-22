@@ -5,7 +5,7 @@
 <div align="center"> <img src="https://skillicons.dev/icons?i=py,go,c,zig,bash,linux,docker,raspberrypi" height="40"/> </div>
 
 ## Certifications and Badges
-<div align="center"> <img src="/badges/python-essentials-1.1.png" width="130"/> <img src="/badges/python-essentials-2.png" width="130"/> <img src="/badges/introduction-to-cybersecurity.png" width="130"/> </div>
+<div align="center"> <img src="/badges/python-essentials-1.1.png" width="130"/> <img src="/badges/python-essentials-2.png" width="130"/> <img src="/badges/introduction-to-cybersecurity.png" width="130"/> <img src="/badges/EHCA.png" width="130"></img></div>
 
 ## Stats
 <div align="center"> <img src="https://www.hackthebox.com/badge/image/2212546" height="40"/> </div>
